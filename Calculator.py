@@ -80,6 +80,8 @@ def runCalculator():
 
 def runAdder(data_store):
     ## TODO: add your code here to add numbers indefinitely to the input value until
+    while data_store != 'stop':
+        data_store = data_store +
     ## the user types 'stop'
 
     return 1 # change this line to return the final result of your operations
