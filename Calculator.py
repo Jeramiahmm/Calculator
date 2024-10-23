@@ -79,12 +79,12 @@ def runCalculator():
 ## The procedures you have to complete are placed here:
 
 def runAdder(data_store):
-    ## TODO: add your code here to add numbers indefinitely to the input value until
+    sum = 0 ## TODO: add your code here to add numbers indefinitely to the input value until
     while data_store != 'stop':
-        data_store = data_store +
+        sum = data_store + sum
     ## the user types 'stop'
 
-    return 1 # change this line to return the final result of your operations
+    return sum # change this line to return the final result of your operations
 
 def runSubtractor(data_store):
     ## TODO: add your code here to subtract numbers indefinitely to the input value until
