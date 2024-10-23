@@ -3,7 +3,7 @@
 ## Please enter the names of your group members here (or yours if you are working alone)
 
 ## [Jeramiah Mendodoza]
-## [Second group member name]
+## [Seb]
 
 ## If working as part of a group, explain what parts of the assignment each member worked on
 
